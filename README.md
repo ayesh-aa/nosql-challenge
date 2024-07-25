@@ -4,7 +4,7 @@ Project Overview
 This project involves analyzing food establishment data from the UK, stored in a MongoDB database. The primary objective is to perform exploratory analysis on the data to answer specific queries related to hygiene scores, rating values, and other criteria.
 
 Prerequisites
-Before you begin, ensure you have the following installed:
+Before we begin, ensure we mmust have the following installed:
 
 Python 3.x
 MongoDB
