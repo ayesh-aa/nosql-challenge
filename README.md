@@ -155,5 +155,4 @@ print(df.head(10))
 Conclusion
 This project provides a detailed analysis of UK food establishment data stored in MongoDB. The analysis includes querying for specific hygiene scores, rating values, and other criteria, and presenting the results in a readable format using Pandas DataFrames.
 
-Feel free to extend the analysis or modify the queries based on your specific requirements.
 
